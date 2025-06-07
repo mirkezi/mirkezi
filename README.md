@@ -1,4 +1,20 @@
-## Hi there 👋
+## Hi, i'm Mirko 👋
+
+I'm a backend developer student and i'm currently working on building skills and code confidence to land my first in this awesome career path.
+Currently, i'm studying on Coursera in the enrolled course "Microsoft back-end developer professional certificate", while developing project to display present knowledge.
+
+Right now i'm learning C# and .NET Core (ASP.NET Web Api), but in the near future i aim to achieve knowledge on database, authentication, deployment and scalability technologies.
+
+## Projects:
+
+[C# - InventoryManagement](https://github.com/mirkezi/InventoryManagementSystem) -> Display basic knowledge and understanding of C# Language.
+
+[C# - Serialization](https://github.com/mirkezi/cSharpSerialization) -> Serialize / Deserialize data C# <--> Json, Xml, Binary 
+
+
+## Where to find me:
+[LinkedIn](https://www.linkedin.com/in/mirko-venali/) -> Feel free to add me or ask me anything. 
+
 
 <!--
 **mirkezi/mirkezi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
