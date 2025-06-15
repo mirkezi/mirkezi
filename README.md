@@ -9,9 +9,10 @@ Right now i'm learning C# and .NET Core (ASP.NET Web Api), but in the near futur
 
 [C# - HumanResources](https://github.com/mirkezi/HumanResources) -> ASP.NET Web Api application with:
 1. Serilog logging
-2. EntityFrameworkCore with SQLite DB
-3. Different api endpoints for CRUD ops
-4. Custom middlewares for global error-handling and input validation.
+2. Swagger Endpoint for  API testing
+3. EntityFrameworkCore with SQLite DB
+4. Different api endpoints for CRUD ops
+5. Custom middlewares for global error-handling and input validation.
 
 ## Course Projects:
 
