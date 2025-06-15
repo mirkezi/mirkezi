@@ -5,8 +5,17 @@ Currently, i'm studying on Coursera in the enrolled course "Microsoft back-end d
 
 Right now i'm learning C# and .NET Core (ASP.NET Web Api), but in the near future i aim to achieve knowledge on database, authentication, deployment and scalability technologies.
 
+## Personal Projects:
+
+[C# - HumanResources](https://github.com/mirkezi/HumanResources) -> ASP.NET Web Api application with:
+1. Serilog logging
+2. EntityFrameworkCore with SQLite DB
+3. Different api endpoints for CRUD ops
+4. Custom middlewares for global error-handling and input validation.
+
 ## Course Projects:
-[C# - SimpleApi with CoPilot](https://github.com/mirkezi/SimpleAPIwithCopilot) - > ASP.NET Core application with APIs for CRUD ops, built-in/custom middlewares, copilot peer support.
+
+[C# - SimpleApi with CoPilot](https://github.com/mirkezi/SimpleAPIwithCopilot) -> ASP.NET Core application with APIs for CRUD ops, built-in/custom middlewares, copilot peer support.
 
 [C# - Serialization](https://github.com/mirkezi/cSharpSerialization) -> Serialize / Deserialize data C# <--> Json, Xml, Binary 
 
